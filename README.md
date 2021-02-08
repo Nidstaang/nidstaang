@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Nidstaang/nidstaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ✨I'm Anna (she/her), a real n00b developer.
+  
+  - 🌱 Currently studying **DevOps** (class of 2022🎓)
+ 
+  - 📚 I'm a **linguist** and occasionally work as a translator/proofreader. (*ENG/ESP/CAT/SWE*) Hit me up if you are in need! 💚
+  
+  - 🤖 **Python, Java, SQL** as main.
+  
+  - ⚡I *love* working **Agile/SCRUM.**
+  
+  - 🔭 Interested in **Data Science** and Computational Linguistics.👽
+  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Don't be a stranger! <br>
+  <br>
+     [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://github.com/Nidstaang) #0371
+  <br> <br>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/anna-jaumandreu-maldonado-45b7421a1/)  
+     <br>
+   
