@@ -6,7 +6,7 @@
  
   - 📚 I'm a **linguist** and occasionally work as a translator/proofreader. (*ENG/ESP/CAT/SWE*) Hit me up if you are in need! 💚
   
-  - 🤖 **Python & R** are my main interests code-wise rn.
+  - 🤖 **Python & Scripting** are my main interests code-wise rn.
   
   - ⚡I *love* working **Agile/SCRUM.**
   
