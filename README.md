@@ -8,7 +8,7 @@
   
   - 🤖 **Python & Scripting** are my main interests code-wise rn.
   
-  - ⚡I *love* working **Agile/SCRUM.**
+  - ⚡I *love* working **Agile/SCRUM/Kanban.**
   
   - 🔭 Interested in **Data Science** and Computational Linguistics.👽
   
