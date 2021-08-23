@@ -4,7 +4,7 @@
   
   - 🌱 Currently studying **DevOps** (class of 2022🎓)
  
-  - 📚 I'm a **linguist** and occasionally work as a translator/proofreader. (*ENG/ESP/CAT/SWE*) Hit me up if you are in need! 💚
+  - 📚 I'm a **linguist** and occasionally work as a translator/proofreader.
   
   - 🤖 **Python & Scripting** are my main interests code-wise rn.
   
