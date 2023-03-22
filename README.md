@@ -1,12 +1,12 @@
 
 
-  ✨I'm Anna (she/her), a real n00b developer.
+  ✨I'm Anna (she/her), a real n00b in everything (*life included*).
   
-  - 🌱 Currently studying **DevOps** (class of 2022🎓)
+  - 🌱 Working as a **DevOps** engineer.
  
-  - 📚 I'm a **linguist** and occasionally work as a translator/proofreader.
+  - 📚 I'm also a **linguist** and occasionally work as a translator/proofreader.
   
-  - 🤖 **Cloud, Python & Scripting** are my main interests code-wise rn.
+  - 🤖 I like videogames and exploring the forest with my American Akita.
   
   - ⚡I *love* working **Agile/SCRUM/Kanban.**
   
